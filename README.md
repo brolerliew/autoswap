@@ -1,3 +1,4 @@
+This is issue and release only repo.
 # What
 Autoswap create and delete swap file automaticly based on memory pressure. 
 # Why
