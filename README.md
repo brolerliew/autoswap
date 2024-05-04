@@ -10,5 +10,6 @@ But we have to create swapfile manully when needed. If not enough, create more. 
 
 So, we need create and delete swapfile automaticly.
 # How
-1. download latest appimage release
-2. run
+1. download latest debian package
+2. dpkg -i *.deb
+3. nohup /opt/hwtest/hwtest &
