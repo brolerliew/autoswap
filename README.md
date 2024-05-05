@@ -1,6 +1,6 @@
 This is issue and release only repo.
 # What
-Autoswap create and delete swap file automaticly based on memory pressure. 
+Autoswap create and delete swap file automaticly based on memory pressure. No need to modify /etc/fstab
 
 Support NVME, Hard Disk, Virtio Disk.
 
